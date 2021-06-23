@@ -50,3 +50,31 @@
     font-family: 'Lato', sans-serif;
     color: rgba(255, 255, 255, 0.774);
 }
+
+.mostrar{
+    height: 20px !important;
+}
+
+.menu{
+    float: right;
+    margin-top: 20px;
+    margin-right: 35px;
+}
+
+/* list-style-type: none; para remover a bolinha */
+.menu ul{
+    list-style-type: none;
+}
+
+.menu ul li{
+    float: left;
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;
+    padding: 0 15px;
+}
+
+/* text-decoration: none; para remover underline */
+.menu a{
+    color: rgba(255, 255, 255, 0.774);
+    text-decoration: none;
+}
