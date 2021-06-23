@@ -23,3 +23,30 @@
     color: rgba(255, 255, 255, 0.774);
     font-size: 30px;
 }
+
+.content{
+    margin-top: 32px;
+    text-align: center;
+}
+
+.content h2{
+    color: rgba(255, 255, 255, 0.774);
+    font-family: 'Lato', sans-serif;
+}
+
+.content h2 span{
+    margin-left: 8px;
+    font-size: 17px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+}
+
+.content p{
+    font-size: 17px;
+    margin-top: 5px;
+    overflow: hidden;
+    height: 0;
+    transition: 1s;
+    font-family: 'Lato', sans-serif;
+    color: rgba(255, 255, 255, 0.774);
+}
