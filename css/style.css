@@ -107,3 +107,43 @@ section.section-one h2{
     width: 100%;
     top: 15px;
 }
+
+.section-two{
+    width: 100%;
+    height: 450px;
+    background-color: rgba(202, 187, 187, 0.288);
+}
+
+.section-two h2{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+    padding-top: 62px;
+}
+
+.apresentacao{
+    margin-top: 15px;
+}
+
+.apresentacao{
+    text-align: center;
+}
+
+.single{
+    float: left;
+    width: 33.333%;
+}
+
+.single img{
+    width: 150px;
+}
+
+.text-single h2{
+    padding-top: 0;
+}
+
+.text-single p{
+    font-family: 'Lato', sans-serif;
+    margin-top: 10px;
+    text-align: center;
+}
